@@ -1,6 +1,8 @@
+using LearningCenter.Domain.Common;
+
 namespace LearningCenter.Domain.Entity;
 
-public abstract class Auditable
+public abstract class Auditable : IEntity
 {
     public Guid Id { get; set; }
     

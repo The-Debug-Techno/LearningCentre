@@ -1,37 +1,62 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "LearningCenter.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/LearningCenter.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearningCenter.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "LearningCenter.Domain/1.0.0": {
+      "type": "project",
+      "path": "../LearningCenter.Domain/LearningCenter.Domain.csproj",
+      "msbuildProject": "../LearningCenter.Domain/LearningCenter.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "LearningCenter.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "/Users/azamamonov/.nuget/packages/": {}
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/azamamonov/RiderProjects/LearningCentre/LearningCenter.Application/LearningCenter.Application.csproj",
+      "projectUniqueName": "D:\\Projects\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj",
       "projectName": "LearningCenter.Application",
-      "projectPath": "/Users/azamamonov/RiderProjects/LearningCentre/LearningCenter.Application/LearningCenter.Application.csproj",
-      "packagesPath": "/Users/azamamonov/.nuget/packages/",
-      "outputPath": "/Users/azamamonov/RiderProjects/LearningCentre/LearningCenter.Application/obj/",
+      "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj",
+      "packagesPath": "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\LearningCentre\\LearningCenter.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/azamamonov/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Dell Inspiron 3501\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj": {
+              "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -59,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -11,6 +11,5 @@ public class User : Auditable
     public DateTime DateOfBirth { get; set; } = default!;
     
     public bool IsActive { get; set; }
-    
-    public UserRole Role { get; set; }
+    public Guid RoleId { get; set; }
 }

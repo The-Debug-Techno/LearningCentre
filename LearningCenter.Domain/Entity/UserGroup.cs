@@ -1,6 +1,6 @@
 namespace LearningCenter.Domain.Entity;
 
-public class UserGroups: Auditable
+public class UserGroup: Auditable
 {
     public Guid UserId { get; set; }
     

@@ -1,8 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "qpOm6cUk+FiVzv7cWMGG/tyOLLvbSt59+I9yNh3UpE77uePF4fQbTS7jQmh9GYQTTROzaTvAVKONL7HW4n4fPw==",
+  "dgSpecHash": "ZPNTMZlqKVGFCMzJudtmB7dvMpN4dYM8A1uj3eTf+zHUgZwTvc02CnqZE8H4NFk0q5620beFcRyR2F713X18oQ==",
   "success": true,
-  "projectFilePath": "/Users/azamamonov/RiderProjects/LearningCentre/LearnigCenter.API/LearnigCenter.API.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Projects\\LearningCentre\\LearnigCenter.API\\LearnigCenter.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.11\\microsoft.entityframeworkcore.analyzers.7.0.11.nupkg.sha512",
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.11\\microsoft.entityframeworkcore.relational.7.0.11.nupkg.sha512",
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
+    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.11\\npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
