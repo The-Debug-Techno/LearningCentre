@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\": {}
+    "/Users/azamamonov/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\LearningCentre\\LearningCentre\\LearningCentre.csproj",
+      "projectUniqueName": "/Users/azamamonov/RiderProjects/LearningCentre/LearningCentre/LearningCentre.csproj",
       "projectName": "LearningCentre",
-      "projectPath": "D:\\Projects\\LearningCentre\\LearningCentre\\LearningCentre.csproj",
-      "packagesPath": "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\LearningCentre\\LearningCentre\\obj\\",
+      "projectPath": "/Users/azamamonov/RiderProjects/LearningCentre/LearningCentre/LearningCentre.csproj",
+      "packagesPath": "/Users/azamamonov/.nuget/packages/",
+      "outputPath": "/Users/azamamonov/RiderProjects/LearningCentre/LearningCentre/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dell Inspiron 3501\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/azamamonov/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
       }
     }
   }
