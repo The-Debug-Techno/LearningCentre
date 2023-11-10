@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LearningCentre
-build_property.ProjectDir = D:\Projects\LearningCentre\LearningCentre\
+build_property.ProjectDir = /Users/azamamonov/RiderProjects/LearningCentre/LearningCentre/
