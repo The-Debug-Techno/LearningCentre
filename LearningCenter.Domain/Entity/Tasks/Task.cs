@@ -1,3 +1,5 @@
+using LearningCenter.Domain.Common;
+
 namespace LearningCenter.Domain.Entity.Tasks;
 
 public class Task: Auditable

@@ -1,4 +1,4 @@
-namespace LearningCenter.Domain.Entity;
+namespace LearningCenter.Domain.Common;
 
 public abstract class Auditable
 {
