@@ -1,6 +1,6 @@
 namespace LearningCenter.Domain.Entity;
 
-public class Course: BaseModel
+public class Course: Auditable
 {
     public string Title { get; set; } = default!;
     

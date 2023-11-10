@@ -1,6 +1,6 @@
 namespace LearningCenter.Domain.Entity;
 
-public class Groups: BaseModel
+public class Groups: Auditable
 {
     public string Name { get; set; } = default!;
     

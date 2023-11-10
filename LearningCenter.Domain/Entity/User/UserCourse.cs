@@ -1,6 +1,6 @@
 namespace LearningCenter.Domain.Entity;
 
-public class UserCourse: BaseModel
+public class UserCourse: Auditable
 {
     public Guid UserId { get; set; }
     

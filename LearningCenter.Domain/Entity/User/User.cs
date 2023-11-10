@@ -1,6 +1,6 @@
 namespace LearningCenter.Domain.Entity;
 
-public class User : BaseModel
+public class User : Auditable
 {
     public string FirstName { get; set; } = default!;
 

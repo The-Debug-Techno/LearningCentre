@@ -1,6 +1,6 @@
 namespace LearningCenter.Domain.Entity;
 
-public abstract class BaseModel
+public abstract class Auditable
 {
     public Guid Id { get; set; }
     

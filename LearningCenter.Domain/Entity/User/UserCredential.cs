@@ -1,6 +1,6 @@
 namespace LearningCenter.Domain.Entity;
 
-public class UserCredential : BaseModel
+public class UserCredential : Auditable
 {
     public string PasswordHash { get; set; } = default!;
     

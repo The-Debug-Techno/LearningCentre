@@ -1,6 +1,6 @@
 namespace LearningCenter.Domain.Entity.Tasks;
 
-public class Task: BaseModel
+public class Task: Auditable
 {
     public Guid GroupId { get; set; }
     
