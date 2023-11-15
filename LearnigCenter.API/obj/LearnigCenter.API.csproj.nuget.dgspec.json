@@ -1,32 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "/Users/azamamonov/RiderProjects/LearningCentre/LearnigCenter.API/LearnigCenter.API.csproj": {}
+    "D:\\Projects\\LearningCentre\\LearnigCenter.API\\LearnigCenter.API.csproj": {}
   },
   "projects": {
-    "/Users/azamamonov/RiderProjects/LearningCentre/LearnigCenter.API/LearnigCenter.API.csproj": {
+    "D:\\Projects\\LearningCentre\\LearnigCenter.API\\LearnigCenter.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/azamamonov/RiderProjects/LearningCentre/LearnigCenter.API/LearnigCenter.API.csproj",
+        "projectUniqueName": "D:\\Projects\\LearningCentre\\LearnigCenter.API\\LearnigCenter.API.csproj",
         "projectName": "LearnigCenter.API",
-        "projectPath": "/Users/azamamonov/RiderProjects/LearningCentre/LearnigCenter.API/LearnigCenter.API.csproj",
-        "packagesPath": "/Users/azamamonov/.nuget/packages/",
-        "outputPath": "/Users/azamamonov/RiderProjects/LearningCentre/LearnigCenter.API/obj/",
+        "projectPath": "D:\\Projects\\LearningCentre\\LearnigCenter.API\\LearnigCenter.API.csproj",
+        "packagesPath": "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\LearningCentre\\LearnigCenter.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/azamamonov/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Dell Inspiron 3501\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/7.0.304/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Projects\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -57,7 +63,248 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj",
+        "projectName": "LearningCenter.Application",
+        "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj",
+        "packagesPath": "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\LearningCentre\\LearningCenter.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell Inspiron 3501\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj": {
+                "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj",
+        "projectName": "LearningCenter.Domain",
+        "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj",
+        "packagesPath": "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell Inspiron 3501\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj",
+        "projectName": "LearningCenter.Infrastructure",
+        "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\LearningCentre\\LearningCenter.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell Inspiron 3501\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Projects\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj": {
+                "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj"
+              },
+              "D:\\Projects\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj": {
+                "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj",
+        "projectName": "LearningCenter.Persistence",
+        "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\LearningCentre\\LearningCenter.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell Inspiron 3501\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj": {
+                "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

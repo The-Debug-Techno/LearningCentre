@@ -12,5 +12,5 @@ public class User : Auditable
     
     public bool IsActive { get; set; }
     
-    public UserRole Role { get; set; }
+    public Guid RoleId { get; set; }
 }

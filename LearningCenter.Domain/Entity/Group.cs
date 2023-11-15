@@ -1,6 +1,6 @@
 namespace LearningCenter.Domain.Entity;
 
-public class Groups: Auditable
+public class Group: Auditable
 {
     public string Name { get; set; } = default!;
     

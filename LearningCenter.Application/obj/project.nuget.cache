@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xeOZpJmlmwahqnJrEQbkA02K96x6N66fzejU+HUifMzfw/t0TmCYv9AGP3ya/pBh6yiBJ3GxjzKbH+EBPu5dWA==",
+  "dgSpecHash": "J7JHxmUZnHuN9BENlrP3ITqKmPzxVsUO+UGKnDSH8rJJVQCs99TWGnCwFt2UL8vYY5UgQHkwQ87mT83dSxZZPA==",
   "success": true,
-  "projectFilePath": "/Users/azamamonov/RiderProjects/LearningCentre/LearningCenter.Application/LearningCenter.Application.csproj",
+  "projectFilePath": "D:\\Projects\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
