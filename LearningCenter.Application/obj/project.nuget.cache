@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J7JHxmUZnHuN9BENlrP3ITqKmPzxVsUO+UGKnDSH8rJJVQCs99TWGnCwFt2UL8vYY5UgQHkwQ87mT83dSxZZPA==",
+  "dgSpecHash": "nvEVuIEi+tnJSHnBihs91qUDuJI7CKQPKvTp2B0GlnBkFhevtO3+wHxme6P57qQbMQ2D125JX5xbiGmyBh1QXw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj",
+  "projectFilePath": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
