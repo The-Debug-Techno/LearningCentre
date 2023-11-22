@@ -1,0 +1,21 @@
+﻿using System.Linq.Expressions;
+using LearningCenter.Domain.Entity;
+
+namespace LearningCenter.Application.Common.Identity.Services;
+
+public interface IHomeTaskService
+{
+    IQueryable<HomeTask> Get(Expression<Func<HomeTask, bool>>? predicate = default, bool asNoTracking = false);
+
+    ValueTask<HomeTask?> GetHomeTaskByIdAsync(Guid hometaskId, bool asNoTracking = false, CancellationToken cancellationToken = default);
+
+    ValueTask<IList<HomeTask>> GetHomeTaskByIdsAsync(IEnumerable<Guid> ids, bool asNoTracking = false, CancellationToken cancellationToken = default);
+
+    ValueTask<HomeTask> CreateAsync(HomeTask homeTask, bool saveChanges = true, CancellationToken cancellationToken = default);
+
+    ValueTask<HomeTask> UpdateAsync(HomeTask homeTask, bool saveChanges = true, CancellationToken cancellationToken = default);
+    
+    ValueTask<HomeTask?> DeleteHomeTaskByIdAsync(Guid hometaskId, bool saveChanges = true, CancellationToken cancellationToken = default);
+
+    ValueTask<HomeTask?> DeleteAsync(HomeTask homeTask, bool saveChanges = true, CancellationToken cancellationToken = default);
+}
