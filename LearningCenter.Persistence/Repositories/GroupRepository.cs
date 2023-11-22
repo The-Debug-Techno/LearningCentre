@@ -1,14 +1,14 @@
 ﻿using System.Linq.Expressions;
-using System.Text.RegularExpressions;
+
+using LearningCenter.Domain.Entity;
 using LearningCenter.Persistence.DataContexts;
 using LearningCenter.Persistence.Repositories.Interfaces;
-using Microsoft.EntityFrameworkCore;
 
 namespace LearningCenter.Persistence.Repositories;
 
 public class GroupRepository : EntityRepositoryBase<Group>, IGroupRepository
 {
-    public GroupRepository(DbContext dbContext) : base(dbContext)
+    public GroupRepository(AppDbContext dbContext) : base(dbContext)
     {
     }
 
@@ -46,6 +46,4 @@ public class GroupRepository : EntityRepositoryBase<Group>, IGroupRepository
     {
         return base.DeleteAsync(group, saveChanges, cancellationToken);
     }
-
-
 }
