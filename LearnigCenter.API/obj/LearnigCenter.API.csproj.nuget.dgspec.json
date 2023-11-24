@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\LearningCentre\\LearnigCenter.API\\LearnigCenter.API.csproj": {}
+    "D:\\Training.LearnerCenter\\LearningCentre\\LearnigCenter.API\\LearnigCenter.API.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\LearningCentre\\LearnigCenter.API\\LearnigCenter.API.csproj": {
+    "D:\\Training.LearnerCenter\\LearningCentre\\LearnigCenter.API\\LearnigCenter.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\LearningCentre\\LearnigCenter.API\\LearnigCenter.API.csproj",
+        "projectUniqueName": "D:\\Training.LearnerCenter\\LearningCentre\\LearnigCenter.API\\LearnigCenter.API.csproj",
         "projectName": "LearnigCenter.API",
-        "projectPath": "D:\\Projects\\LearningCentre\\LearnigCenter.API\\LearnigCenter.API.csproj",
-        "packagesPath": "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\LearningCentre\\LearnigCenter.API\\obj\\",
+        "projectPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearnigCenter.API\\LearnigCenter.API.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearnigCenter.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell Inspiron 3501\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projects\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj": {
-                "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj"
+              "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj": {
+                "projectPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj"
               }
             }
           }
@@ -63,21 +62,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj": {
+    "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj",
+        "projectUniqueName": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj",
         "projectName": "LearningCenter.Application",
-        "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj",
-        "packagesPath": "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\LearningCentre\\LearningCenter.Application\\obj\\",
+        "projectPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell Inspiron 3501\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,8 +90,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj": {
-                "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj"
+              "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj": {
+                "projectPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj"
               }
             }
           }
@@ -122,21 +121,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj": {
+    "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj",
+        "projectUniqueName": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj",
         "projectName": "LearningCenter.Domain",
-        "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj",
-        "packagesPath": "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\obj\\",
+        "projectPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell Inspiron 3501\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -177,21 +176,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj": {
+    "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj",
         "projectName": "LearningCenter.Infrastructure",
-        "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\LearningCentre\\LearningCenter.Infrastructure\\obj\\",
+        "projectPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Infrastructure\\LearningCenter.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell Inspiron 3501\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -205,11 +204,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projects\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj": {
-                "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj"
+              "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj": {
+                "projectPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Application\\LearningCenter.Application.csproj"
               },
-              "D:\\Projects\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj": {
-                "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj"
+              "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj": {
+                "projectPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj"
               }
             }
           }
@@ -239,21 +238,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj": {
+    "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj",
+        "projectUniqueName": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj",
         "projectName": "LearningCenter.Persistence",
-        "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj",
-        "packagesPath": "C:\\Users\\Dell Inspiron 3501\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\LearningCentre\\LearningCenter.Persistence\\obj\\",
+        "projectPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Persistence\\LearningCenter.Persistence.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell Inspiron 3501\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -267,8 +266,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj": {
-                "projectPath": "D:\\Projects\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj"
+              "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj": {
+                "projectPath": "D:\\Training.LearnerCenter\\LearningCentre\\LearningCenter.Domain\\LearningCenter.Domain.csproj"
               }
             }
           }
@@ -304,7 +303,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
